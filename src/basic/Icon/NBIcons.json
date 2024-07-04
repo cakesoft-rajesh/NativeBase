@@ -715,8 +715,8 @@
       "active": "md-checkmark"
     },
     "ios": {
-      "default": "ios-checkmark",
-      "active": "ios-checkmark"
+      "default": "checkmark",
+      "active": "checkmark"
     }
   },
   "checkmark-circle": {
@@ -2355,8 +2355,8 @@
       "active": "md-radio-button-on"
     },
     "ios": {
-      "default": "ios-radio-button-on",
-      "active": "ios-radio-button-on"
+      "default": "radio-button-on",
+      "active": "radio-button-on"
     }
   },
   "rainy": {
